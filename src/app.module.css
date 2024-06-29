@@ -1,0 +1,25 @@
+.card {
+  border-radius: 8px;
+  padding: 16px;
+  width: 300px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.image {
+  border-radius: 16px;
+  width: 100%;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  height: 25px;
+}
+
+.info img {
+  height: 20px;
+}
+
+.info p {
+  margin-left: 8px;
+}
